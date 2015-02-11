@@ -1,0 +1,13 @@
+*.obj
+*.bak
+*.uvgui
+*.uvproj
+*.uvopt
+*.lst
+*.exe
+*.hex
+*.iex
+*.lnp
+*.uvgui.*
+*.m51
+*.plg
